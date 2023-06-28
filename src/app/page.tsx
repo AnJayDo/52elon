@@ -27,7 +27,7 @@ export default function Home() {
           src={'/elonwithcake.png'}
           alt='52 Elon with cake'
         />
-        <div className='md:absolute flex flex-col justify-start items-center mx-auto mt-32 md:mt-0 md:right-12 md:top-0'>
+        <div className='md:absolute flex flex-col justify-start items-center mx-auto mt-32 md:mt-0 md:right-12 md:top-24'>
           <Image
             className='flex'
             width={600}
