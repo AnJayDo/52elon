@@ -25,3 +25,11 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.bg-glow-pink {
+  background-image: url(/bg.png);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
